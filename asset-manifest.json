@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.c66e7c2f.chunk.css",
-    "main.js": "/static/js/main.2fef56cb.chunk.js",
-    "main.js.map": "/static/js/main.2fef56cb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ca6225e2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ca6225e2.js.map",
-    "static/js/2.d80f596f.chunk.js": "/static/js/2.d80f596f.chunk.js",
-    "static/js/2.d80f596f.chunk.js.map": "/static/js/2.d80f596f.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.c66e7c2f.chunk.css.map": "/static/css/main.c66e7c2f.chunk.css.map",
-    "static/js/2.d80f596f.chunk.js.LICENSE.txt": "/static/js/2.d80f596f.chunk.js.LICENSE.txt",
-    "static/media/cross.f6e1f9db.svg": "/static/media/cross.f6e1f9db.svg",
-    "static/media/zero.6c56f3ac.svg": "/static/media/zero.6c56f3ac.svg"
+    "main.css": "/tic-tac-toe/static/css/main.c66e7c2f.chunk.css",
+    "main.js": "/tic-tac-toe/static/js/main.2fef56cb.chunk.js",
+    "main.js.map": "/tic-tac-toe/static/js/main.2fef56cb.chunk.js.map",
+    "runtime-main.js": "/tic-tac-toe/static/js/runtime-main.efe8b841.js",
+    "runtime-main.js.map": "/tic-tac-toe/static/js/runtime-main.efe8b841.js.map",
+    "static/js/2.d80f596f.chunk.js": "/tic-tac-toe/static/js/2.d80f596f.chunk.js",
+    "static/js/2.d80f596f.chunk.js.map": "/tic-tac-toe/static/js/2.d80f596f.chunk.js.map",
+    "index.html": "/tic-tac-toe/index.html",
+    "static/css/main.c66e7c2f.chunk.css.map": "/tic-tac-toe/static/css/main.c66e7c2f.chunk.css.map",
+    "static/js/2.d80f596f.chunk.js.LICENSE.txt": "/tic-tac-toe/static/js/2.d80f596f.chunk.js.LICENSE.txt",
+    "static/media/cross.f6e1f9db.svg": "/tic-tac-toe/static/media/cross.f6e1f9db.svg",
+    "static/media/zero.6c56f3ac.svg": "/tic-tac-toe/static/media/zero.6c56f3ac.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ca6225e2.js",
+    "static/js/runtime-main.efe8b841.js",
     "static/js/2.d80f596f.chunk.js",
     "static/css/main.c66e7c2f.chunk.css",
     "static/js/main.2fef56cb.chunk.js"
