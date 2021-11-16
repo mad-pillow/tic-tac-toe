@@ -1,0 +1,26 @@
+header {
+  width: 100%;
+  position: relative;
+  padding: 20px 15px 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.logo {
+  display: inline-block;
+  position: relative;
+  font-size: 3rem;
+  line-height: 100%;
+}
+
+.logo::before {
+  z-index: -1;
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  bottom: 10%;
+  background-color: #f00;
+}

@@ -1,0 +1,14 @@
+.instruction {
+  &__container {
+    padding: 30px 0;
+  }
+
+  &__title {
+    margin-bottom: 20px;
+  }
+
+  &__item {
+    list-style-position: inside;
+    margin-bottom: 15px;
+  }
+}
